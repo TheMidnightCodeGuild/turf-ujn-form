@@ -98,7 +98,7 @@ export default function Home() {
         
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6">
           <div>
-            <label className="block mb-1 sm:mb-2 text-sm sm:text-base">Owner's Name</label>
+            <label className="block mb-1 sm:mb-2 text-sm sm:text-base">Owner&apos;s Name</label>
             <input
               type="text"
               className="w-full p-2 border rounded text-sm sm:text-base"
